@@ -31,12 +31,12 @@
 <br />
 <br />
 
-[![ercknz's GitHub stats](https://github-readme-stats.vercel.app/api?username=ercknz)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ercknz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ercknz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![ercknz's GitHub stats](https://github-readme-stats.vercel.app/api?username=ercknz&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <br />
 
